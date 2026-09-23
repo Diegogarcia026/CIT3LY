@@ -1,0 +1,15 @@
+Descripción del Sistema de Biblioteca
+
+Propósito de la Biblioteca
+El sistema está diseñado para automatizar y optimizar la gestión integral de una biblioteca, facilitando el control de los usuarios registrados,
+el inventario de libros disponibles y el flujo de transacciones diarias.
+
+Funcionamiento de Préstamos y Devoluciones
+1. Préstamos: 
+   - El usuario solicita un libro presentando su identificación o credencial vigente.
+   - El sistema verifica que el usuario no cuente con sanciones y que el libro tenga ejemplares disponibles en el inventario.
+   - Se registra la fecha de salida y la fecha límite de devolución.
+2. Devoluciones:
+   - El usuario entrega el libro de vuelta en la biblioteca.
+   - El sistema registra la fecha de recepción y actualiza automáticamente el estatus del ejemplar como disponible en el catálogo.
+   - En caso de exceder la fecha límite, se notifica el retraso para la aplicación de la penalización correspondiente.
