@@ -1,6 +1,6 @@
 # Riesgos del proyecto – Sistema de citas y reservas
 
-**Estado:** En revisión por el tester
+**Estado:** Listo para revisión del tester
 
 | # | Riesgo | Impacto | Mitigación |
 |---|--------|---------|------------|
