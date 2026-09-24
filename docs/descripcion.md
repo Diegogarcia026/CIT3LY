@@ -4,7 +4,7 @@ Descripción del Sistema - CIT3LY
 
 Propósito del Sistema
 
-CIT3LY está diseñado para gestionar, automatizar y optimizar el proceso de agendamiento y control de citas o reservaciones, facilitando la 
+CIT3LY está diseñado para gestionar, automatizar y optimizar el proceso de agendamiento y control de citas o reservaciones, facilitando la
 
 interacción entre los usuarios y la disponibilidad de horarios de manera eficiente y ordenada.
 
@@ -12,7 +12,7 @@ interacción entre los usuarios y la disponibilidad de horarios de manera eficie
 
 Funcionamiento de Citas y Reservaciones
 
-1\. Creación de Citas: 
+1\. Creación de Citas:
 
 &#x20;  - El usuario accede al sistema y selecciona el servicio de su interés.
 
@@ -24,5 +24,7 @@ Funcionamiento de Citas y Reservaciones
 
 &#x20;  - El usuario puede consultar su historial o las citas pendientes desde su panel.
 
-&#x20;  - En caso de requerirlo, el usuario puede cancelar o reprogramar su cita, liberando automáticamente el horario en el calendario del sistema para que esté disponible nuevamente.
+&#x20;  - En caso de requerirlo, el usuario puede cancelar o reprogramar su cita, liberando automáticamente el horario en el calendario del sistema 
+
+para que esté disponible nuevamente.
 
