@@ -70,5 +70,29 @@ Si se encuentra alguna diferencia entre la descripción, los requisitos y las de
 
 
 
+Lista de verificación del Tester
+
+
+
+Antes de aprobar la documentación para integrarla a la rama principal, se comprobará lo siguiente:
+
+
+
+\- Que el nombre y propósito de CIT3LY sean consistentes en todos los documentos.
+
+\- Que las funciones descritas también aparezcan dentro de los requisitos.
+
+\- Que no existan reglas contradictorias entre los archivos del proyecto.
+
+\- Que los términos relacionados con citas, reservaciones, usuarios y disponibilidad se utilicen de forma uniforme.
+
+\- Que cada documento tenga información clara y comprensible.
+
+\- Que los cambios importantes estén registrados mediante commits con mensajes descriptivos.
+
+
+
+Si alguno de estos puntos no se cumple, se deberá corregir la documentación antes de realizar la integración final.
+
 
 
