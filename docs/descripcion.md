@@ -1,28 +1,26 @@
-\# Descripción del Sistema de Biblioteca
+Descripción del Sistema - CIT3LY
 
 
 
-\## Propósito de la Biblioteca
+Propósito del Sistema
 
-El sistema está diseñado para automatizar y optimizar la gestión integral de una biblioteca universitaria, facilitando el control de los usuarios registrados, el inventario de libros disponibles y el flujo de transacciones diarias.
+CIT3LY está diseñado para gestionar, automatizar y optimizar el proceso de agendamiento y control de citas o reservaciones, facilitando la interacción entre los usuarios y la disponibilidad de horarios de manera eficiente y ordenada.
 
 
 
-Funcionamiento de Préstamos y Devoluciones
+Funcionamiento de Citas y Reservaciones
 
-1\. Préstamos:
+1\. Creación de Citas:
 
-&#x20;  - El usuario solicita un libro presentando su credencial vigente.
+&#x20;  - El usuario accede al sistema y selecciona el servicio o espacio de su interés.
 
-&#x20;  - El sistema verifica que el usuario no tenga sanciones y que existan ejemplares disponibles en el inventario.
+&#x20;  - El sistema valida en tiempo real la disponibilidad de fechas y horarios libres.
 
-&#x20;  - Se registra la fecha de salida y la fecha límite de devolución.
+&#x20;  - Una vez seleccionado el espacio, el usuario confirma la reserva y el sistema genera un registro único de la cita.
 
-2\. Devoluciones:
+2\. Gestión y Cancelación:
 
-&#x20;  - El usuario entrega el libro de vuelta en la biblioteca.
+&#x20;  - El usuario puede consultar su historial o las citas pendientes desde su panel.
 
-&#x20;  - El sistema registra la fecha de recepción y actualiza automáticamente el estatus del ejemplar como disponible en el catálogo.
-
-&#x20;  - En caso de retraso, se notifica para la aplicación de la penalización correspondiente.
+&#x20;  - En caso de requerirlo, el usuario puede cancelar o reprogramar su cita, liberando automáticamente el horario en el calendario del sistema para que esté disponible nuevamente.
 
