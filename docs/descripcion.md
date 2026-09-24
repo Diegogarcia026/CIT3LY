@@ -12,19 +12,19 @@ interacción entre los usuarios y la disponibilidad de horarios de manera eficie
 
 Funcionamiento de Citas y Reservaciones
 
-1\. Creación de Citas:
+1.Creación de Citas:
 
-&#x20;  - El usuario accede al sistema y selecciona el servicio de su interés.
+\- El usuario accede al sistema y selecciona el servicio de su interés.
 
-&#x20;  - El sistema valida en tiempo real la disponibilidad de fechas y horarios libres.
+\- El sistema valida en tiempo real la disponibilidad de fechas y horarios libres.
 
-&#x20;  - Una vez seleccionado el servicio, el usuario confirma la reserva y el sistema genera un registro único de la cita.
+\- Una vez seleccionado el servicio, el usuario confirma la reserva y el sistema genera un registro único de la cita.
 
-2\. Gestión y Cancelación:
+2.Gestión y Cancelación:
 
-&#x20;  - El usuario puede consultar su historial o las citas pendientes desde su panel.
+\- El usuario puede consultar su historial o las citas pendientes desde su panel.
 
-&#x20;  - En caso de requerirlo, el usuario puede cancelar o reprogramar su cita, liberando automáticamente el horario en el calendario del sistema 
+\- En caso de requerirlo, el usuario puede cancelar o reprogramar su cita, liberando automáticamente el horario en el calendario del sistema
 
-para que esté disponible nuevamente.
+&#x20;para que esté disponible nuevamente.
 
